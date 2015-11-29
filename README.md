@@ -1,5 +1,6 @@
 # mvdata
-Data sets for multi-view learning.
+
+Data sets for multi-view learning in MatLab ".mat" file format.
 
 ##Introduction
 
@@ -17,11 +18,13 @@ If you use  the data, please cite our paper:
 
 ###How to use 
 
+The ".mat" files using the following script.
+
 ```
 sh get_data.sh
 ```
 
-**Note**: The whole dataset is about 600MB.
+**Note**: The whole dataset is about 300MB to 400MB.
 
 ###About the data format
 
