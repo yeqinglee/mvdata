@@ -67,10 +67,10 @@ List of features:
 
 The source of the data are downloaded from the following links:
 
-- [Handwritten]: https://archive.ics.uci.edu/ml/datasets/Multiple+Features
-- [Caltech-101]: http://www.vision.caltech.edu/Image_Datasets/Caltech101/
-- [Reuters]: https://archive.ics.uci.edu/ml/datasets.html
-- [NUS-WIDE-Object]: http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm
-- [Animal with attributes (AWA)]: http://attributes.kyb.tuebingen.mpg.de/
+- [Handwritten](https://archive.ics.uci.edu/ml/datasets/Multiple+Features)
+- [Caltech-101](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
+- [Reuters](https://archive.ics.uci.edu/ml/datasets.html)
+- [NUS-WIDE-Object](http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm)
+- [Animal with attributes (AWA)](http://attributes.kyb.tuebingen.mpg.de/)
 
 
