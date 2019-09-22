@@ -18,11 +18,10 @@ If you use  the data, please cite our paper:
 
 ###How to use 
 
-The ".mat" files using the following script.
+Download from google drive using the browser.
 
-```
-sh get_data.sh
-```
++ https://drive.google.com/drive/folders/1O_3YmthAZGiq1ZPSdE74R7Nwos2PmnHH
+
 
 **Note**: The whole dataset is about 300MB to 400MB.
 
